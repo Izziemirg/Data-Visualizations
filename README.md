@@ -7,8 +7,11 @@ A collection of Python-based data visualizations analyzing AI model performance,
 This repository contains exploratory data analysis and visualization work examining:
 
 Anthropic Claude model performance metrics across versions
+
 1.) Competitive benchmarking against other leading LLM providers
+
 2.) Quality trends over time using industry-standard evaluation frameworks
+
 3.) Python visualization techniques for communicating technical AI performance data
 
 Academic Context: Data Visualization Assignment | UVA Darden MSBA Program
