@@ -15,4 +15,5 @@ Anthropic Claude model performance metrics across versions
 3.) Python visualization techniques for communicating technical AI performance data
 
 Academic Context: Data Visualization Assignment | UVA Darden MSBA Program
-Focus: Demonstrating proficiency in Python data visualization libraries and effective communication of complex technical metrics
+
+Project Focus: Demonstrating proficiency in Python data visualization libraries and effective communication of complex technical metrics
